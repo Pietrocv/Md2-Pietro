@@ -1,3 +1,8 @@
+📎 Autor
+Nome: Pietro Calegari Visentin
+Matrícula: 232014754
+Curso: Engenharia de Software 
+
 # 🔐 Verificação Modular com Teoremas Aritméticos
 
 ## 📚 Descrição
